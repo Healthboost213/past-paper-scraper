@@ -11,3 +11,5 @@ to my needs.
 
 I want to credit [BestExamHelp](https://bestexamhelp.com/) since most of the scraping is done on their side.
 I added a random sleep time in between individual requests so their servers aren't overloaded.
+
+Requires Python 3.10+ to run properly.
